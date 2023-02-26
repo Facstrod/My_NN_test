@@ -1,2 +1,2 @@
 print('i won')
-print('sure?')
+print('sure? - yes')
